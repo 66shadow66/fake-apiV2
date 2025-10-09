@@ -2,33 +2,65 @@
   "users": [
     {
       "id": 1,
-      "name": "Alice",
-      "email": "AliceEmail@gmail.com",
-      "countDays": 100
+      "name": "Danylo",
+      "email": "danylo.learner@gmail.com",
+      "countDays": 150
     },
     {
       "id": 2,
-      "name": "Tom",
-      "email": "TomEmail@gmail.com",
-      "countDays": 50
+      "name": "Anastasia",
+      "email": "anastasia.designer@gmail.com",
+      "countDays": 70
     },
     {
       "id": 3,
-      "name": "John",
-      "email": "JohnEmail@gmail.com",
-      "countDays": 151
+      "name": "Mykola",
+      "email": "mykola.student@gmail.com",
+      "countDays": 100
     },
     {
       "id": 4,
-      "name": "Kate",
-      "email": "KateEmail@gmail.com",
-      "countDays": 1
+      "name": "Oksana",
+      "email": "oksana.artist@gmail.com",
+      "countDays": 40
     },
     {
       "id": 5,
-      "name": "Sam",
-      "email": "SamEmail@gmail.com",
-      "countDays": 30
+      "name": "Taras",
+      "email": "taras.creator@gmail.com",
+      "countDays": 85
+    }
+  ],
+  "subscriptions": [
+    {
+      "id": 1,
+      "service": "Coursera",
+      "ownerId": 1,
+      "type": "learn"
+    },
+    {
+      "id": 2,
+      "service": "Adobe XD",
+      "ownerId": 2,
+      "type": "design"
+    },
+    {
+      "id": 3,
+      "service": "Udemy",
+      "ownerId": 3,
+      "type": "learn"
+    },
+    {
+      "id": 4,
+      "service": "Figma Pro",
+      "ownerId": 4,
+      "type": "design"
+    },
+    {
+      "id": 5,
+      "service": "Skillshare",
+      "ownerId": 5,
+      "type": "learn"
     }
   ]
 }
