@@ -1,32 +1,34 @@
-[
+{
+  "users": [
     {
-        "id": 1,
-        "name": "Elena",
-        "email": "ElenaEmail@gmail.com",
-        "countDays": 75
+      "id": 1,
+      "name": "Alice",
+      "email": "AliceEmail@gmail.com",
+      "countDays": 100
     },
     {
-        "id": 2,
-        "name": "Mark",
-        "email": "MarkEmail@gmail.com",
-        "countDays": 120
+      "id": 2,
+      "name": "Tom",
+      "email": "TomEmail@gmail.com",
+      "countDays": 50
     },
     {
-        "id": 3,
-        "name": "Sara",
-        "email": "SaraEmail@gmail.com",
-        "countDays": 45
+      "id": 3,
+      "name": "John",
+      "email": "JohnEmail@gmail.com",
+      "countDays": 151
     },
     {
-        "id": 4,
-        "name": "Liam",
-        "email": "LiamEmail@gmail.com",
-        "countDays": 200
+      "id": 4,
+      "name": "Kate",
+      "email": "KateEmail@gmail.com",
+      "countDays": 1
     },
     {
-        "id": 5,
-        "name": "Nina",
-        "email": "NinaEmail@gmail.com",
-        "countDays": 15
+      "id": 5,
+      "name": "Sam",
+      "email": "SamEmail@gmail.com",
+      "countDays": 30
     }
-]
+  ]
+}
