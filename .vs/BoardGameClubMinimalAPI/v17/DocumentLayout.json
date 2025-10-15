@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\labs\\BoardGameClubMinimalAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C9EF519-2FC6-4FBA-A101-FBC4A6F884A4}|BoardGameClubMinimalAPI\\BoardGameClubMinimalAPI.csproj|c:\\labs\\boardgameclubminimalapi\\boardgameclubminimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C9EF519-2FC6-4FBA-A101-FBC4A6F884A4}|BoardGameClubMinimalAPI\\BoardGameClubMinimalAPI.csproj|solutionrelative:boardgameclubminimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C9EF519-2FC6-4FBA-A101-FBC4A6F884A4}|BoardGameClubMinimalAPI\\BoardGameClubMinimalAPI.csproj|c:\\labs\\boardgameclubminimalapi\\boardgameclubminimalapi\\endpoints\\sessionendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C9EF519-2FC6-4FBA-A101-FBC4A6F884A4}|BoardGameClubMinimalAPI\\BoardGameClubMinimalAPI.csproj|solutionrelative:boardgameclubminimalapi\\endpoints\\sessionendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C9EF519-2FC6-4FBA-A101-FBC4A6F884A4}|BoardGameClubMinimalAPI\\BoardGameClubMinimalAPI.csproj|c:\\labs\\boardgameclubminimalapi\\boardgameclubminimalapi\\endpoints\\memberendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C9EF519-2FC6-4FBA-A101-FBC4A6F884A4}|BoardGameClubMinimalAPI\\BoardGameClubMinimalAPI.csproj|solutionrelative:boardgameclubminimalapi\\endpoints\\memberendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C9EF519-2FC6-4FBA-A101-FBC4A6F884A4}|BoardGameClubMinimalAPI\\BoardGameClubMinimalAPI.csproj|c:\\labs\\boardgameclubminimalapi\\boardgameclubminimalapi\\endpoints\\gameendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C9EF519-2FC6-4FBA-A101-FBC4A6F884A4}|BoardGameClubMinimalAPI\\BoardGameClubMinimalAPI.csproj|solutionrelative:boardgameclubminimalapi\\endpoints\\gameendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C9EF519-2FC6-4FBA-A101-FBC4A6F884A4}|BoardGameClubMinimalAPI\\BoardGameClubMinimalAPI.csproj|c:\\labs\\boardgameclubminimalapi\\boardgameclubminimalapi\\data\\datastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C9EF519-2FC6-4FBA-A101-FBC4A6F884A4}|BoardGameClubMinimalAPI\\BoardGameClubMinimalAPI.csproj|solutionrelative:boardgameclubminimalapi\\data\\datastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C9EF519-2FC6-4FBA-A101-FBC4A6F884A4}|BoardGameClubMinimalAPI\\BoardGameClubMinimalAPI.csproj|c:\\labs\\boardgameclubminimalapi\\boardgameclubminimalapi\\models\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C9EF519-2FC6-4FBA-A101-FBC4A6F884A4}|BoardGameClubMinimalAPI\\BoardGameClubMinimalAPI.csproj|solutionrelative:boardgameclubminimalapi\\models\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C9EF519-2FC6-4FBA-A101-FBC4A6F884A4}|BoardGameClubMinimalAPI\\BoardGameClubMinimalAPI.csproj|c:\\labs\\boardgameclubminimalapi\\boardgameclubminimalapi\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C9EF519-2FC6-4FBA-A101-FBC4A6F884A4}|BoardGameClubMinimalAPI\\BoardGameClubMinimalAPI.csproj|solutionrelative:boardgameclubminimalapi\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C9EF519-2FC6-4FBA-A101-FBC4A6F884A4}|BoardGameClubMinimalAPI\\BoardGameClubMinimalAPI.csproj|c:\\labs\\boardgameclubminimalapi\\boardgameclubminimalapi\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C9EF519-2FC6-4FBA-A101-FBC4A6F884A4}|BoardGameClubMinimalAPI\\BoardGameClubMinimalAPI.csproj|solutionrelative:boardgameclubminimalapi\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C9EF519-2FC6-4FBA-A101-FBC4A6F884A4}|BoardGameClubMinimalAPI\\BoardGameClubMinimalAPI.csproj|c:\\labs\\boardgameclubminimalapi\\boardgameclubminimalapi\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C9EF519-2FC6-4FBA-A101-FBC4A6F884A4}|BoardGameClubMinimalAPI\\BoardGameClubMinimalAPI.csproj|solutionrelative:boardgameclubminimalapi\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\labs\\BoardGameClubMinimalAPI\\BoardGameClubMinimalAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BoardGameClubMinimalAPI\\Program.cs",
+              "ToolTip": "C:\\labs\\BoardGameClubMinimalAPI\\BoardGameClubMinimalAPI\\Program.cs",
+              "RelativeToolTip": "BoardGameClubMinimalAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T21:47:37.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SessionEndpoints.cs",
+              "DocumentMoniker": "C:\\labs\\BoardGameClubMinimalAPI\\BoardGameClubMinimalAPI\\Endpoints\\SessionEndpoints.cs",
+              "RelativeDocumentMoniker": "BoardGameClubMinimalAPI\\Endpoints\\SessionEndpoints.cs",
+              "ToolTip": "C:\\labs\\BoardGameClubMinimalAPI\\BoardGameClubMinimalAPI\\Endpoints\\SessionEndpoints.cs",
+              "RelativeToolTip": "BoardGameClubMinimalAPI\\Endpoints\\SessionEndpoints.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAADwv2QAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T21:47:30.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameEndpoints.cs",
+              "DocumentMoniker": "C:\\labs\\BoardGameClubMinimalAPI\\BoardGameClubMinimalAPI\\Endpoints\\GameEndpoints.cs",
+              "RelativeDocumentMoniker": "BoardGameClubMinimalAPI\\Endpoints\\GameEndpoints.cs",
+              "ToolTip": "C:\\labs\\BoardGameClubMinimalAPI\\BoardGameClubMinimalAPI\\Endpoints\\GameEndpoints.cs",
+              "RelativeToolTip": "BoardGameClubMinimalAPI\\Endpoints\\GameEndpoints.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAADwv2AAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T21:47:11.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MemberEndpoints.cs",
+              "DocumentMoniker": "C:\\labs\\BoardGameClubMinimalAPI\\BoardGameClubMinimalAPI\\Endpoints\\MemberEndpoints.cs",
+              "RelativeDocumentMoniker": "BoardGameClubMinimalAPI\\Endpoints\\MemberEndpoints.cs",
+              "ToolTip": "C:\\labs\\BoardGameClubMinimalAPI\\BoardGameClubMinimalAPI\\Endpoints\\MemberEndpoints.cs",
+              "RelativeToolTip": "BoardGameClubMinimalAPI\\Endpoints\\MemberEndpoints.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAADwv14AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T21:47:01.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataStore.cs",
+              "DocumentMoniker": "C:\\labs\\BoardGameClubMinimalAPI\\BoardGameClubMinimalAPI\\Data\\DataStore.cs",
+              "RelativeDocumentMoniker": "BoardGameClubMinimalAPI\\Data\\DataStore.cs",
+              "ToolTip": "C:\\labs\\BoardGameClubMinimalAPI\\BoardGameClubMinimalAPI\\Data\\DataStore.cs",
+              "RelativeToolTip": "BoardGameClubMinimalAPI\\Data\\DataStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T21:46:49.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "C:\\labs\\BoardGameClubMinimalAPI\\BoardGameClubMinimalAPI\\Models\\Validator.cs",
+              "RelativeDocumentMoniker": "BoardGameClubMinimalAPI\\Models\\Validator.cs",
+              "ToolTip": "C:\\labs\\BoardGameClubMinimalAPI\\BoardGameClubMinimalAPI\\Models\\Validator.cs",
+              "RelativeToolTip": "BoardGameClubMinimalAPI\\Models\\Validator.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAADwv1gAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T21:46:36.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\labs\\BoardGameClubMinimalAPI\\BoardGameClubMinimalAPI\\Models\\Session.cs",
+              "RelativeDocumentMoniker": "BoardGameClubMinimalAPI\\Models\\Session.cs",
+              "ToolTip": "C:\\labs\\BoardGameClubMinimalAPI\\BoardGameClubMinimalAPI\\Models\\Session.cs",
+              "RelativeToolTip": "BoardGameClubMinimalAPI\\Models\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T21:46:22.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\labs\\BoardGameClubMinimalAPI\\BoardGameClubMinimalAPI\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "BoardGameClubMinimalAPI\\Models\\Game.cs",
+              "ToolTip": "C:\\labs\\BoardGameClubMinimalAPI\\BoardGameClubMinimalAPI\\Models\\Game.cs",
+              "RelativeToolTip": "BoardGameClubMinimalAPI\\Models\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T21:46:11.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\labs\\BoardGameClubMinimalAPI\\BoardGameClubMinimalAPI\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "BoardGameClubMinimalAPI\\Models\\Member.cs",
+              "ToolTip": "C:\\labs\\BoardGameClubMinimalAPI\\BoardGameClubMinimalAPI\\Models\\Member.cs",
+              "RelativeToolTip": "BoardGameClubMinimalAPI\\Models\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T21:46:01.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
